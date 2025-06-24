@@ -3,6 +3,8 @@
 A classic Snake game implemented in **Java** using **Swing** and **AWT**.  
 The player controls a snake inside an **11x9 grid**, aiming to eat apples, grow in length, and avoid self-collision.
 
+Demonstration video: https://youtu.be/_uT1a43Bdyo?si=sflB6aMwerrmr9m5
+
 ---
 
 ## 🎮 Features
