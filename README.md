@@ -32,4 +32,6 @@ While most students worked in pairs on simpler tasks, I chose to challenge mysel
    ```bash
    git clone https://github.com/yourusername/snake-game.git
 2. Open in any Java IDE (e.g. NetBeans, IntelliJ).
-3. Run the Main.java class.
+3. Run the 'Snakeio.java class' .
+4. Navicate to play menu and use arrow keys to control the snake.
+5. Enjoy
